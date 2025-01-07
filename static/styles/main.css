@@ -1,0 +1,72 @@
+/* main.css */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Körper, der hier sowieso keiner bewohnt */
+  body {
+    background-color: #f2f2f2;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    color: #333;
+  }
+  
+  /* Der große Heldentitel */
+  h1 {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  /* Einfacher Container für Buttons etc. */
+  div {
+    margin: 20px;
+  }
+  
+  /* Buttons, die deinen Klickfinger erfreuen */
+  button {
+    background-color: #008cba;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    margin-right: 10px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  button:hover {
+    background-color: #006c8e;
+  }
+  
+  /* Bild: mach's nicht zu groß, wir wollen ja die Karte sehen */
+  #cityImage {
+    width: 1280px;       /* feste Breite, 1280px */
+    display: block;
+    margin: 10px auto;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+  }
+
+
+  #mapContainer {
+    position: relative;
+  }
+
+  
+  /* Das Canvas, auf dem das ganze Chaos stattfindet */
+  #mapCanvas {
+    display: block;
+    margin: 0 auto;
+    border: 2px solid #666;
+  }
+  
+  /* Info-Box, in der man dir großartige Neuigkeiten präsentieren könnte */
+  #infoBox {
+    margin: 20px;
+    padding: 10px;
+    background-color: #eee;
+    border: 1px dashed #aaa;
+    border-radius: 3px;
+  }
+  

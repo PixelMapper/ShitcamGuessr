@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="static/styles/main.css">
+    <title>Shitcamguessr</title>
+
+    <style>
+        /* Ein paar minimale Styles direkt hier, kann natürlich in eine .css ausgelagert werden */
+
+        body {
+            font-family: sans-serif;
+            background-color: #f2f2f2;
+            margin: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        button {
+            margin-right: 10px;
+            padding: 10px 15px;
+            background-color: #008cba;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            transition: background-color 0.2s ease-in-out;
+        }
+        button:hover {
+            background-color: #006c8e;
+        }
+
+        /* Container für das KI-Bild + Overlay */
+        #imageContainer {
+            position: relative; 
+            display: inline-block;
+        }
+        #cityImage {
+            width: 1280px; 
+            display: block;
+        }
+        /* Overlay-Kasten */
+        #cityOverlay {
+            display: none;
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            padding: 10px;
+            background-color: rgba(0,0,0,0.6);
+            color: #fff;
+            border-radius: 5px;
+            max-width: 300px;
+        }
+
+        /* Canvas unten drunter */
+        #mapCanvas {
+            border: 1px solid #666;
+            display: block;
+            margin-top: 20px;
+        }
+
+        #mapContainer {
+            position: relative;
+        }
+    </style>
+</head>
+<body>
+    <h1>Shitcamguessr</h1>
+
+    <!-- Button-Bar -->
+    <div>
+        <button id="btnNewCity">Neue Stadt</button>
+        <button id="btnCalcDist">OK</button>
+        <button id="btnReset">Reset</button>
+    </div>
+
+    <!-- KI-Bild + Overlay -->
+    <div id="imageContainer">
+        <img id="cityImage" src="" alt="KI-Bild">
+        <div id="cityOverlay"></div>
+    </div>
+
+    <!-- Die Canvas-Karte -->
+    <div id="mapContainer">
+        <canvas id="mapCanvas" width="1280" height="640"></canvas>
+        <button id="toggleCitiesBtn" style="
+            position: relative;
+            top: -50px;
+            right: -20px;
+            background-color: rgba(0, 0, 0, 0.3);
+            border: none;
+            padding: 5px 10px;
+            cursor: pointer;
+            border-radius: 5px;
+            font-size: 14px;
+        ">
+        Show Cities
+        </button>
+        <button id="toggleCountriesBtn" style="
+            position: relative;
+            top: -50px;
+            right: -20px;
+            background-color: rgba(0, 0, 0, 0.3);
+            border: none;
+            padding: 5px 10px;
+            cursor: pointer;
+            border-radius: 5px;
+            font-size: 14px;
+        ">
+        Show Countries
+        </button>
+    </div>
+
+    <!-- Dein JS -->
+    <!-- <script src="{{ url_for('static', filename='scripts/main.js') }}"></script> -->
+    <script src="static/scripts/main.js"></script>
+</body>
+</html>

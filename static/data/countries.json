@@ -1,0 +1,1064 @@
+[
+    {
+        "name": "Fiji",
+        "latitude": -17.3163,
+        "longitude": 163.8532,
+        "labelrank": 6
+    },
+    {
+        "name": "Tanzania",
+        "latitude": -6.2577,
+        "longitude": 34.753,
+        "labelrank": 3
+    },
+    {
+        "name": "Western Sahara",
+        "latitude": 24.2912,
+        "longitude": -12.1378,
+        "labelrank": 7
+    },
+    {
+        "name": "Canada",
+        "latitude": 61.4691,
+        "longitude": -98.1424,
+        "labelrank": 2
+    },
+    {
+        "name": "United States of America",
+        "latitude": 45.7056,
+        "longitude": -112.5994,
+        "labelrank": 2
+    },
+    {
+        "name": "Kazakhstan",
+        "latitude": 48.1917,
+        "longitude": 67.2846,
+        "labelrank": 3
+    },
+    {
+        "name": "Uzbekistan",
+        "latitude": 41.7486,
+        "longitude": 63.2036,
+        "labelrank": 3
+    },
+    {
+        "name": "Papua New Guinea",
+        "latitude": -6.4516,
+        "longitude": 145.3176,
+        "labelrank": 2
+    },
+    {
+        "name": "Indonesia",
+        "latitude": -2.2217,
+        "longitude": 117.4234,
+        "labelrank": 2
+    },
+    {
+        "name": "Argentina",
+        "latitude": -35.4468,
+        "longitude": -65.1754,
+        "labelrank": 2
+    },
+    {
+        "name": "Chile",
+        "latitude": -39.047,
+        "longitude": -71.5206,
+        "labelrank": 2
+    },
+    {
+        "name": "Democratic Republic of the Congo",
+        "latitude": -2.8503,
+        "longitude": 23.583,
+        "labelrank": 2
+    },
+    {
+        "name": "Somalia",
+        "latitude": 4.7523,
+        "longitude": 45.7267,
+        "labelrank": 6
+    },
+    {
+        "name": "Kenya",
+        "latitude": 0.596,
+        "longitude": 37.7916,
+        "labelrank": 2
+    },
+    {
+        "name": "Sudan",
+        "latitude": 15.9906,
+        "longitude": 29.8626,
+        "labelrank": 3
+    },
+    {
+        "name": "Chad",
+        "latitude": 15.3289,
+        "longitude": 18.5813,
+        "labelrank": 3
+    },
+    {
+        "name": "Haiti",
+        "latitude": 18.9007,
+        "longitude": -72.658,
+        "labelrank": 5
+    },
+    {
+        "name": "Dominican Republic",
+        "latitude": 18.8845,
+        "longitude": -70.4624,
+        "labelrank": 5
+    },
+    {
+        "name": "Russia",
+        "latitude": 61.9617,
+        "longitude": 96.8033,
+        "labelrank": 2
+    },
+    {
+        "name": "The Bahamas",
+        "latitude": 25.5155,
+        "longitude": -77.93,
+        "labelrank": 4
+    },
+    {
+        "name": "Falkland Islands",
+        "latitude": -51.7132,
+        "longitude": -59.421,
+        "labelrank": 5
+    },
+    {
+        "name": "Norway",
+        "latitude": 69.1569,
+        "longitude": 15.4681,
+        "labelrank": 3
+    },
+    {
+        "name": "Greenland",
+        "latitude": 74.7705,
+        "longitude": -41.5002,
+        "labelrank": 3
+    },
+    {
+        "name": "French Southern and Antarctic Lands",
+        "latitude": -49.3065,
+        "longitude": 69.5316,
+        "labelrank": 6
+    },
+    {
+        "name": "East Timor",
+        "latitude": -8.7678,
+        "longitude": 125.9663,
+        "labelrank": 5
+    },
+    {
+        "name": "South Africa",
+        "latitude": -28.947,
+        "longitude": 25.048,
+        "labelrank": 2
+    },
+    {
+        "name": "Lesotho",
+        "latitude": -29.6253,
+        "longitude": 28.1701,
+        "labelrank": 6
+    },
+    {
+        "name": "Mexico",
+        "latitude": 23.9354,
+        "longitude": -102.5763,
+        "labelrank": 2
+    },
+    {
+        "name": "Uruguay",
+        "latitude": -32.7809,
+        "longitude": -56.0033,
+        "labelrank": 4
+    },
+    {
+        "name": "Brazil",
+        "latitude": -10.8068,
+        "longitude": -53.0543,
+        "labelrank": 2
+    },
+    {
+        "name": "Bolivia",
+        "latitude": -16.729,
+        "longitude": -64.6414,
+        "labelrank": 3
+    },
+    {
+        "name": "Peru",
+        "latitude": -9.1916,
+        "longitude": -74.3918,
+        "labelrank": 2
+    },
+    {
+        "name": "Colombia",
+        "latitude": 3.9272,
+        "longitude": -73.0777,
+        "labelrank": 2
+    },
+    {
+        "name": "Panama",
+        "latitude": 8.53,
+        "longitude": -80.1092,
+        "labelrank": 4
+    },
+    {
+        "name": "Costa Rica",
+        "latitude": 9.9657,
+        "longitude": -84.1754,
+        "labelrank": 5
+    },
+    {
+        "name": "Nicaragua",
+        "latitude": 12.8482,
+        "longitude": -85.0203,
+        "labelrank": 5
+    },
+    {
+        "name": "Honduras",
+        "latitude": 14.8229,
+        "longitude": -86.59,
+        "labelrank": 5
+    },
+    {
+        "name": "El Salvador",
+        "latitude": 13.7261,
+        "longitude": -88.8729,
+        "labelrank": 6
+    },
+    {
+        "name": "Guatemala",
+        "latitude": 15.6994,
+        "longitude": -90.3695,
+        "labelrank": 3
+    },
+    {
+        "name": "Belize",
+        "latitude": 17.1971,
+        "longitude": -88.7034,
+        "labelrank": 6
+    },
+    {
+        "name": "Venezuela",
+        "latitude": 7.1621,
+        "longitude": -66.1638,
+        "labelrank": 3
+    },
+    {
+        "name": "Guyana",
+        "latitude": 4.7902,
+        "longitude": -58.9712,
+        "labelrank": 4
+    },
+    {
+        "name": "Suriname",
+        "latitude": 4.12,
+        "longitude": -55.9115,
+        "labelrank": 4
+    },
+    {
+        "name": "France",
+        "latitude": 42.4607,
+        "longitude": -2.8767,
+        "labelrank": 2
+    },
+    {
+        "name": "Ecuador",
+        "latitude": -1.4548,
+        "longitude": -78.3842,
+        "labelrank": 3
+    },
+    {
+        "name": "Puerto Rico",
+        "latitude": 18.2372,
+        "longitude": -66.4792,
+        "labelrank": 5
+    },
+    {
+        "name": "Jamaica",
+        "latitude": 18.1376,
+        "longitude": -77.3243,
+        "labelrank": 4
+    },
+    {
+        "name": "Cuba",
+        "latitude": 21.6318,
+        "longitude": -78.9607,
+        "labelrank": 3
+    },
+    {
+        "name": "Zimbabwe",
+        "latitude": -18.907,
+        "longitude": 29.7885,
+        "labelrank": 3
+    },
+    {
+        "name": "Botswana",
+        "latitude": -22.0997,
+        "longitude": 23.7731,
+        "labelrank": 4
+    },
+    {
+        "name": "Namibia",
+        "latitude": -22.0998,
+        "longitude": 17.1562,
+        "labelrank": 3
+    },
+    {
+        "name": "Senegal",
+        "latitude": 14.3541,
+        "longitude": -14.5098,
+        "labelrank": 3
+    },
+    {
+        "name": "Mali",
+        "latitude": 17.2678,
+        "longitude": -3.5433,
+        "labelrank": 3
+    },
+    {
+        "name": "Mauritania",
+        "latitude": 20.2093,
+        "longitude": -10.3264,
+        "labelrank": 3
+    },
+    {
+        "name": "Benin",
+        "latitude": 9.6474,
+        "longitude": 2.3374,
+        "labelrank": 5
+    },
+    {
+        "name": "Niger",
+        "latitude": 17.3456,
+        "longitude": 9.3244,
+        "labelrank": 3
+    },
+    {
+        "name": "Nigeria",
+        "latitude": 9.5483,
+        "longitude": 7.9951,
+        "labelrank": 2
+    },
+    {
+        "name": "Cameroon",
+        "latitude": 5.6631,
+        "longitude": 12.6116,
+        "labelrank": 3
+    },
+    {
+        "name": "Togo",
+        "latitude": 8.4395,
+        "longitude": 0.9964,
+        "labelrank": 6
+    },
+    {
+        "name": "Ghana",
+        "latitude": 7.9287,
+        "longitude": -1.237,
+        "labelrank": 3
+    },
+    {
+        "name": "Ivory Coast",
+        "latitude": 7.5538,
+        "longitude": -5.612,
+        "labelrank": 3
+    },
+    {
+        "name": "Guinea",
+        "latitude": 10.4483,
+        "longitude": -11.0609,
+        "labelrank": 3
+    },
+    {
+        "name": "Guinea-Bissau",
+        "latitude": 12.0227,
+        "longitude": -15.1106,
+        "labelrank": 6
+    },
+    {
+        "name": "Liberia",
+        "latitude": 6.4316,
+        "longitude": -9.4108,
+        "labelrank": 4
+    },
+    {
+        "name": "Sierra Leone",
+        "latitude": 8.5304,
+        "longitude": -11.7953,
+        "labelrank": 4
+    },
+    {
+        "name": "Burkina Faso",
+        "latitude": 12.3117,
+        "longitude": -1.7765,
+        "labelrank": 3
+    },
+    {
+        "name": "Central African Republic",
+        "latitude": 6.5428,
+        "longitude": 20.3743,
+        "labelrank": 4
+    },
+    {
+        "name": "Republic of the Congo",
+        "latitude": -0.8378,
+        "longitude": 15.1345,
+        "labelrank": 4
+    },
+    {
+        "name": "Gabon",
+        "latitude": -0.647,
+        "longitude": 11.6878,
+        "labelrank": 4
+    },
+    {
+        "name": "Equatorial Guinea",
+        "latitude": 1.6459,
+        "longitude": 10.366,
+        "labelrank": 4
+    },
+    {
+        "name": "Zambia",
+        "latitude": -13.3951,
+        "longitude": 27.7276,
+        "labelrank": 3
+    },
+    {
+        "name": "Malawi",
+        "latitude": -13.1728,
+        "longitude": 34.1936,
+        "labelrank": 6
+    },
+    {
+        "name": "Mozambique",
+        "latitude": -17.2304,
+        "longitude": 35.4726,
+        "labelrank": 3
+    },
+    {
+        "name": "Eswatini",
+        "latitude": -26.4899,
+        "longitude": 31.3953,
+        "labelrank": 4
+    },
+    {
+        "name": "Angola",
+        "latitude": -12.2459,
+        "longitude": 17.4706,
+        "labelrank": 3
+    },
+    {
+        "name": "Burundi",
+        "latitude": -3.3774,
+        "longitude": 29.9139,
+        "labelrank": 6
+    },
+    {
+        "name": "Israel",
+        "latitude": 31.4849,
+        "longitude": 35.0039,
+        "labelrank": 4
+    },
+    {
+        "name": "Lebanon",
+        "latitude": 33.9118,
+        "longitude": 35.871,
+        "labelrank": 5
+    },
+    {
+        "name": "Madagascar",
+        "latitude": -19.3561,
+        "longitude": 46.6912,
+        "labelrank": 3
+    },
+    {
+        "name": "Palestine",
+        "latitude": 31.9411,
+        "longitude": 35.2733,
+        "labelrank": 5
+    },
+    {
+        "name": "The Gambia",
+        "latitude": 13.4753,
+        "longitude": -15.4319,
+        "labelrank": 6
+    },
+    {
+        "name": "Tunisia",
+        "latitude": 34.1729,
+        "longitude": 9.5347,
+        "labelrank": 3
+    },
+    {
+        "name": "Algeria",
+        "latitude": 28.1855,
+        "longitude": 2.598,
+        "labelrank": 3
+    },
+    {
+        "name": "Jordan",
+        "latitude": 31.2455,
+        "longitude": 36.7795,
+        "labelrank": 4
+    },
+    {
+        "name": "United Arab Emirates",
+        "latitude": 23.8686,
+        "longitude": 54.2067,
+        "labelrank": 4
+    },
+    {
+        "name": "Qatar",
+        "latitude": 25.3219,
+        "longitude": 51.1835,
+        "labelrank": 5
+    },
+    {
+        "name": "Kuwait",
+        "latitude": 29.3073,
+        "longitude": 47.6001,
+        "labelrank": 6
+    },
+    {
+        "name": "Iraq",
+        "latitude": 33.0368,
+        "longitude": 43.7569,
+        "labelrank": 3
+    },
+    {
+        "name": "Oman",
+        "latitude": 20.6112,
+        "longitude": 56.0987,
+        "labelrank": 4
+    },
+    {
+        "name": "Vanuatu",
+        "latitude": -15.5427,
+        "longitude": 167.0738,
+        "labelrank": 4
+    },
+    {
+        "name": "Cambodia",
+        "latitude": 12.6847,
+        "longitude": 104.8761,
+        "labelrank": 3
+    },
+    {
+        "name": "Thailand",
+        "latitude": 15.017,
+        "longitude": 101.0061,
+        "labelrank": 3
+    },
+    {
+        "name": "Laos",
+        "latitude": 18.445,
+        "longitude": 103.7503,
+        "labelrank": 4
+    },
+    {
+        "name": "Myanmar",
+        "latitude": 21.017,
+        "longitude": 96.5058,
+        "labelrank": 3
+    },
+    {
+        "name": "Vietnam",
+        "latitude": 16.6579,
+        "longitude": 106.2858,
+        "labelrank": 2
+    },
+    {
+        "name": "North Korea",
+        "latitude": 40.143,
+        "longitude": 127.165,
+        "labelrank": 3
+    },
+    {
+        "name": "South Korea",
+        "latitude": 36.4276,
+        "longitude": 127.8213,
+        "labelrank": 2
+    },
+    {
+        "name": "Mongolia",
+        "latitude": 46.8237,
+        "longitude": 102.9464,
+        "labelrank": 3
+    },
+    {
+        "name": "India",
+        "latitude": 22.925,
+        "longitude": 79.5937,
+        "labelrank": 2
+    },
+    {
+        "name": "Bangladesh",
+        "latitude": 23.8395,
+        "longitude": 90.2679,
+        "labelrank": 3
+    },
+    {
+        "name": "Bhutan",
+        "latitude": 27.428,
+        "longitude": 90.4724,
+        "labelrank": 5
+    },
+    {
+        "name": "Nepal",
+        "latitude": 28.2394,
+        "longitude": 84.0132,
+        "labelrank": 3
+    },
+    {
+        "name": "Pakistan",
+        "latitude": 29.9735,
+        "longitude": 69.414,
+        "labelrank": 2
+    },
+    {
+        "name": "Afghanistan",
+        "latitude": 33.8564,
+        "longitude": 66.0867,
+        "labelrank": 3
+    },
+    {
+        "name": "Tajikistan",
+        "latitude": 38.5831,
+        "longitude": 71.0344,
+        "labelrank": 4
+    },
+    {
+        "name": "Kyrgyzstan",
+        "latitude": 41.5069,
+        "longitude": 74.6204,
+        "labelrank": 4
+    },
+    {
+        "name": "Turkmenistan",
+        "latitude": 39.0912,
+        "longitude": 59.2754,
+        "labelrank": 4
+    },
+    {
+        "name": "Iran",
+        "latitude": 32.5189,
+        "longitude": 54.2855,
+        "labelrank": 2
+    },
+    {
+        "name": "Syria",
+        "latitude": 35.0126,
+        "longitude": 38.5442,
+        "labelrank": 3
+    },
+    {
+        "name": "Armenia",
+        "latitude": 40.2166,
+        "longitude": 45.0003,
+        "labelrank": 6
+    },
+    {
+        "name": "Sweden",
+        "latitude": 62.8115,
+        "longitude": 16.5963,
+        "labelrank": 3
+    },
+    {
+        "name": "Belarus",
+        "latitude": 53.5063,
+        "longitude": 27.9814,
+        "labelrank": 4
+    },
+    {
+        "name": "Ukraine",
+        "latitude": 49.1488,
+        "longitude": 31.2291,
+        "labelrank": 3
+    },
+    {
+        "name": "Poland",
+        "latitude": 52.1483,
+        "longitude": 19.311,
+        "labelrank": 3
+    },
+    {
+        "name": "Austria",
+        "latitude": 47.6139,
+        "longitude": 14.0762,
+        "labelrank": 4
+    },
+    {
+        "name": "Hungary",
+        "latitude": 47.2,
+        "longitude": 19.3576,
+        "labelrank": 5
+    },
+    {
+        "name": "Moldova",
+        "latitude": 47.2037,
+        "longitude": 28.4105,
+        "labelrank": 6
+    },
+    {
+        "name": "Romania",
+        "latitude": 45.8571,
+        "longitude": 24.9433,
+        "labelrank": 3
+    },
+    {
+        "name": "Lithuania",
+        "latitude": 55.2843,
+        "longitude": 23.8806,
+        "labelrank": 5
+    },
+    {
+        "name": "Latvia",
+        "latitude": 56.8072,
+        "longitude": 24.8333,
+        "labelrank": 5
+    },
+    {
+        "name": "Estonia",
+        "latitude": 58.6437,
+        "longitude": 25.8247,
+        "labelrank": 6
+    },
+    {
+        "name": "Germany",
+        "latitude": 51.1337,
+        "longitude": 10.2885,
+        "labelrank": 2
+    },
+    {
+        "name": "Bulgaria",
+        "latitude": 42.7531,
+        "longitude": 25.1951,
+        "labelrank": 4
+    },
+    {
+        "name": "Greece",
+        "latitude": 39.0667,
+        "longitude": 22.7198,
+        "labelrank": 3
+    },
+    {
+        "name": "Turkey",
+        "latitude": 39.0684,
+        "longitude": 35.1169,
+        "labelrank": 2
+    },
+    {
+        "name": "Albania",
+        "latitude": 41.1414,
+        "longitude": 20.0324,
+        "labelrank": 6
+    },
+    {
+        "name": "Croatia",
+        "latitude": 45.0162,
+        "longitude": 16.5662,
+        "labelrank": 6
+    },
+    {
+        "name": "Switzerland",
+        "latitude": 46.7917,
+        "longitude": 8.1183,
+        "labelrank": 4
+    },
+    {
+        "name": "Luxembourg",
+        "latitude": 49.7657,
+        "longitude": 5.9652,
+        "labelrank": 6
+    },
+    {
+        "name": "Belgium",
+        "latitude": 50.6524,
+        "longitude": 4.5808,
+        "labelrank": 2
+    },
+    {
+        "name": "Netherlands",
+        "latitude": 52.2987,
+        "longitude": 5.5122,
+        "labelrank": 5
+    },
+    {
+        "name": "Portugal",
+        "latitude": 39.634,
+        "longitude": -8.0558,
+        "labelrank": 2
+    },
+    {
+        "name": "Spain",
+        "latitude": 40.3487,
+        "longitude": -3.617,
+        "labelrank": 2
+    },
+    {
+        "name": "Ireland",
+        "latitude": 53.1806,
+        "longitude": -8.0102,
+        "labelrank": 3
+    },
+    {
+        "name": "New Caledonia",
+        "latitude": -21.2614,
+        "longitude": 165.5345,
+        "labelrank": 3
+    },
+    {
+        "name": "Solomon Islands",
+        "latitude": -8.8525,
+        "longitude": 159.9666,
+        "labelrank": 3
+    },
+    {
+        "name": "New Zealand",
+        "latitude": -41.6626,
+        "longitude": 172.7019,
+        "labelrank": 2
+    },
+    {
+        "name": "Australia",
+        "latitude": -25.7307,
+        "longitude": 134.5028,
+        "labelrank": 2
+    },
+    {
+        "name": "Sri Lanka",
+        "latitude": 7.7005,
+        "longitude": 80.6672,
+        "labelrank": 3
+    },
+    {
+        "name": "People's Republic of China",
+        "latitude": 36.5551,
+        "longitude": 103.8836,
+        "labelrank": 2
+    },
+    {
+        "name": "Taiwan",
+        "latitude": 23.741,
+        "longitude": 120.9748,
+        "labelrank": 3
+    },
+    {
+        "name": "Italy",
+        "latitude": 42.7512,
+        "longitude": 12.1408,
+        "labelrank": 2
+    },
+    {
+        "name": "Denmark",
+        "latitude": 56.0639,
+        "longitude": 9.8764,
+        "labelrank": 4
+    },
+    {
+        "name": "United Kingdom",
+        "latitude": 53.9148,
+        "longitude": -2.8531,
+        "labelrank": 2
+    },
+    {
+        "name": "Iceland",
+        "latitude": 65.0743,
+        "longitude": -18.761,
+        "labelrank": 3
+    },
+    {
+        "name": "Azerbaijan",
+        "latitude": 40.2207,
+        "longitude": 47.5539,
+        "labelrank": 5
+    },
+    {
+        "name": "Georgia",
+        "latitude": 42.162,
+        "longitude": 43.4815,
+        "labelrank": 5
+    },
+    {
+        "name": "Philippines",
+        "latitude": 11.7638,
+        "longitude": 122.9027,
+        "labelrank": 2
+    },
+    {
+        "name": "Malaysia",
+        "latitude": 3.7256,
+        "longitude": 109.6981,
+        "labelrank": 3
+    },
+    {
+        "name": "Brunei",
+        "latitude": 4.6903,
+        "longitude": 114.9151,
+        "labelrank": 6
+    },
+    {
+        "name": "Slovenia",
+        "latitude": 46.1254,
+        "longitude": 14.9382,
+        "labelrank": 6
+    },
+    {
+        "name": "Finland",
+        "latitude": 64.5041,
+        "longitude": 26.2118,
+        "labelrank": 3
+    },
+    {
+        "name": "Slovakia",
+        "latitude": 48.7267,
+        "longitude": 19.5077,
+        "labelrank": 6
+    },
+    {
+        "name": "Czech Republic",
+        "latitude": 49.7752,
+        "longitude": 15.3346,
+        "labelrank": 5
+    },
+    {
+        "name": "Eritrea",
+        "latitude": 15.4273,
+        "longitude": 38.6782,
+        "labelrank": 4
+    },
+    {
+        "name": "Japan",
+        "latitude": 37.6631,
+        "longitude": 138.065,
+        "labelrank": 2
+    },
+    {
+        "name": "Paraguay",
+        "latitude": -23.248,
+        "longitude": -58.3874,
+        "labelrank": 4
+    },
+    {
+        "name": "Yemen",
+        "latitude": 15.9132,
+        "longitude": 47.535,
+        "labelrank": 3
+    },
+    {
+        "name": "Saudi Arabia",
+        "latitude": 24.1233,
+        "longitude": 44.5164,
+        "labelrank": 2
+    },
+    {
+        "name": "Antarctica",
+        "latitude": -80.492,
+        "longitude": 20.571,
+        "labelrank": 4
+    },
+    {
+        "name": "Turkish Republic of Northern Cyprus",
+        "latitude": 35.274,
+        "longitude": 33.5583,
+        "labelrank": 6
+    },
+    {
+        "name": "Cyprus",
+        "latitude": 34.9071,
+        "longitude": 33.0396,
+        "labelrank": 5
+    },
+    {
+        "name": "Morocco",
+        "latitude": 29.8854,
+        "longitude": -8.4205,
+        "labelrank": 3
+    },
+    {
+        "name": "Egypt",
+        "latitude": 26.5066,
+        "longitude": 29.8445,
+        "labelrank": 2
+    },
+    {
+        "name": "Libya",
+        "latitude": 26.9975,
+        "longitude": 17.9744,
+        "labelrank": 3
+    },
+    {
+        "name": "Ethiopia",
+        "latitude": 8.654,
+        "longitude": 39.5513,
+        "labelrank": 2
+    },
+    {
+        "name": "Djibouti",
+        "latitude": 11.773,
+        "longitude": 42.498,
+        "labelrank": 5
+    },
+    {
+        "name": "Somaliland",
+        "latitude": 9.758,
+        "longitude": 46.2307,
+        "labelrank": 5
+    },
+    {
+        "name": "Uganda",
+        "latitude": 1.2955,
+        "longitude": 32.3576,
+        "labelrank": 3
+    },
+    {
+        "name": "Rwanda",
+        "latitude": -2.0135,
+        "longitude": 29.919,
+        "labelrank": 3
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "latitude": 44.1808,
+        "longitude": 17.8169,
+        "labelrank": 5
+    },
+    {
+        "name": "North Macedonia",
+        "latitude": 41.6059,
+        "longitude": 21.6979,
+        "labelrank": 6
+    },
+    {
+        "name": "Serbia",
+        "latitude": 44.233,
+        "longitude": 20.8197,
+        "labelrank": 5
+    },
+    {
+        "name": "Montenegro",
+        "latitude": 42.789,
+        "longitude": 19.2862,
+        "labelrank": 6
+    },
+    {
+        "name": "Kosovo",
+        "latitude": 42.5794,
+        "longitude": 20.8954,
+        "labelrank": 6
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "latitude": 10.4282,
+        "longitude": -61.3304,
+        "labelrank": 5
+    },
+    {
+        "name": "South Sudan",
+        "latitude": 7.2929,
+        "longitude": 30.1986,
+        "labelrank": 3
+    }
+]
